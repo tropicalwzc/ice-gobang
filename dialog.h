@@ -15,11 +15,10 @@
 #include <cmath>
 #include <cstdlib>
 #include <ctime>
-#include "fiver.h"
+
 using std::endl;
 using std::cout;
 
-class fiver;
 class Dialog : public QDialog
 {
     Q_OBJECT
